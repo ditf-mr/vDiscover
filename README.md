@@ -33,7 +33,7 @@ Download
 
 This virtual machine is ready to run in a Oracle VM VirtualBox. Please read the Readme.txt included in the zip file.
 
-[Download](ftp://repo.nimbus-ware.com/fitman_mova_2.0.1982_vbox.zip)
+Download: ftp://repo.nimbus-ware.com/fitman_mova_2.0.1982_vbox.zip
 
 ### Source code
 
