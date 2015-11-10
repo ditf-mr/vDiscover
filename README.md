@@ -8,6 +8,8 @@ vDiscover (Retrieval System for Structured Information)
 vDiscover is a ontology-based expert system with case-based reasoning functionality especially 
 designed for small and medium enterprises.
 
+More information on vDiscover: http://www.vdiscover.eu
+
 Copyright
 ---------
 
@@ -37,7 +39,7 @@ This virtual machine is ready to run in a Oracle VM VirtualBox. Please read the 
 
 The source code can run on any Apache Webserver. Further system software requirements see below.
 
-[Download](https://sourceforge.net/projects/vdiscover/files/)
+[Download](https://github.com/ditf-mr/vDiscover)
 
 System software requirements
 ----------------------------
@@ -66,7 +68,7 @@ Demo repository
 
 The virtual machine has included a demo repository.
 
-If you run MoVA on your own server you can also [download](https://sourceforge.net/projects/vdiscover/files/) it. To install it, use the repository managers import function by clicking _restore repository_ in the left sidebar.
+If you run MoVA on your own server you can also [download](https://github.com/ditf-mr/vDiscover) it. To install it, use the repository managers import function by clicking _restore repository_ in the left sidebar.
 
 API documentation
 -----------------
