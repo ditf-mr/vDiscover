@@ -1,8 +1,8 @@
 Documentation on vDiscover
 ==========================
 
-New functions
--------------
+New versions
+------------
 
 Version: 2.2: Right mangagement included
 
