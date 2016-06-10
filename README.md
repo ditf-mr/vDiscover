@@ -26,17 +26,11 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this 
 program; if not, see <http://www.gnu.org/licenses/>.
 
-Download
---------
-
-### Source code
-
-The source code can run on any Apache Webserver. Further system software requirements see below.
-
-[Download](https://github.com/ditf-mr/vDiscover)
 
 System software requirements
 ----------------------------
+
+The source code can run on any Apache Webserver. Further system software requirements see below.
 
 *   Apache web server, perfreably version 2.2+
 *   PHP 5.3.5+, as an apache module
@@ -60,9 +54,7 @@ Login to any repository and click on `Manual` on the top left navigation.
 Demo repository
 ---------------
 
-The virtual machine has included a demo repository.
-
-If you run MoVA on your own server you can also [download](https://github.com/ditf-mr/vDiscover) it. To install it, use the repository managers import function by clicking _restore repository_ in the left sidebar.
+If you run MoVA on your own server you can also [download](https://github.com/ditf-mr/vDiscover/blob/master/MoVA-Demo-Fitman.zip) and install the demo repository. To install it, use the repository managers import function by clicking _restore repository_ in the left sidebar.
 
 API documentation
 -----------------
