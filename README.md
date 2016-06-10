@@ -1,6 +1,11 @@
 Documentation on vDiscover
 ==========================
 
+New functions
+-------------
+
+Version: 2.2: Right mangagement included
+
 Preface
 -------
 vDiscover (Retrieval System for Structured Information)
