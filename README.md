@@ -5,6 +5,7 @@ New functions
 -------------
 
 Version: 2.2: Right mangagement included
+Version: 2.1: Work flow management included
 
 Preface
 -------
