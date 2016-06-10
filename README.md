@@ -4,8 +4,8 @@ Documentation on vDiscover
 New versions
 ------------
 
-Ver. 2.2: Right mangagement included<br>
-Ver. 2.1: Work flow management included
+Version 2.2: Right mangagement included<br>
+Version 2.1: Work flow management included
 
 
 Preface
