@@ -29,12 +29,6 @@ program; if not, see <http://www.gnu.org/licenses/>.
 Download
 --------
 
-### Virtual machine
-
-This virtual machine is ready to run in a Oracle VM VirtualBox. Please read the Readme.txt included in the zip file.
-
-Download: ftp://repo.nimbus-ware.com/fitman_mova_2.0.1982_vbox.zip
-
 ### Source code
 
 The source code can run on any Apache Webserver. Further system software requirements see below.
